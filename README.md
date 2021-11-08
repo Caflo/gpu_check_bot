@@ -1,2 +1,2 @@
-# gpu_check_bot
- Check online availability of CPU's and GPU's in an easy way.
+# bottino-schedino
+Scraping bot to check availability of given gpu's and cpu's
